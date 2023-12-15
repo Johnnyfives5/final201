@@ -1,0 +1,58 @@
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: #1b4a63; 
+}
+
+
+nav ul li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+
+nav a {
+    text-decoration: none;
+    color: azure; 
+    padding: 10px;
+    display: block;
+}
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(195, 195, 195);
+    color:black; 
+}
+
+h4{
+    font-weight: bold;
+    font-size: larger;
+    color:#1b4a63;
+}
+
+.showbiz{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    padding-left: 1.8%;
+}
+
+img{
+    display: block;
+    padding: 5px;
+    margin: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 100%;
+}
+.party{
+    padding-left: 1%;
+    font-variant: small-caps;
+}
+
+.party2{
+    padding-left: 1.8%;
+}
